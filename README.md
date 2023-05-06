@@ -1,5 +1,5 @@
-      <h1>Hi 👋🏻 I'm Bedi , A Passionate Developer Currently learning JS  
-           Fueled by curiosity and a love for problem-solving.<h1>
+#      Hi 👋🏻 I'm Bedi , A Passionate Developer Currently learning _JS_ 
+        Fueled by curiosity and a love for problem-solving.
            
 
 
