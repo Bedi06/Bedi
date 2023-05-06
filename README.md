@@ -1,4 +1,5 @@
-#      Hi 👋🏻 I'm Bedi , A Passionate Developer Currently learning _JS_ 
+#      Hi 👋🏻 I'm Bedi 
+A Passionate Developer Currently learning _JS_ , <br>
         Fueled by curiosity and a love for problem-solving.
            
 
