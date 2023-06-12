@@ -12,4 +12,6 @@ A Passionate Developer Currently learning JS , <br>
 <a href="https://www.codewars.com/users/Bedi06">
   <img src="https://www.codewars.com/users/Bedi06/badges/large" alt="Codewars achievement badge">
 </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bedi06)](https://git.io/streak-stats)
+
+
+http://github-readme-streak-stats.herokuapp.com?user=Bedi06)](https://git.io/streak-stats)
