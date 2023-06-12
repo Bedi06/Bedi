@@ -14,4 +14,3 @@ A Passionate Developer Currently learning JS , <br>
 </a>
 
 
-http://github-readme-streak-stats.herokuapp.com?user=Bedi06)](https://git.io/streak-stats)
