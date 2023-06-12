@@ -1,5 +1,5 @@
 #      Hi 👋🏻 I'm _Bedi_
-A Passionate Developer Currently learning JS , <br>
+A Passionate Developer Currently learning React , <br>
         _Fueled by curiosity and a love for problem-solving._
            
 
