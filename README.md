@@ -1,5 +1,5 @@
 #      Hi 👋🏻 I'm _Bedi_
-A Passionate Developer Currently learning React ! <br>
+A Passionate Developer Currently learning PostgreSQL! <br>
         _Fueled by curiosity and a love for problem-solving._
            
 
