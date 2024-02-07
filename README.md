@@ -10,8 +10,11 @@ A Passionate Developer Currently Learning Cloud! <br>
 </div>
 
 <a href="https://www.codewars.com/users/Bedi06">
-<hr>
   <img src="https://www.codewars.com/users/Bedi06/badges/large" alt="Codewars achievement badge">
+
+
+ <hr>
+       
 </a>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
