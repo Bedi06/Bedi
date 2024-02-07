@@ -1,5 +1,5 @@
 #      Hi 👋🏻 I'm _Bedi_
-A Passionate Developer Currently learning Cloud! <br>
+A Passionate Developer Currently Learning Cloud! <br>
         _Fueled by curiosity and a love for problem-solving._
            
 
@@ -27,10 +27,9 @@ A Passionate Developer Currently learning Cloud! <br>
 <hr>
 My Stats :
 <hr>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=H-BAHDON&theme=transparent&hide_border=true&mode=weekly&card_width=724" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedi06&theme=transparent&hide_border=true&mode=weekly&card_width=724" alt="GitHub Streak" /></a>
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bedi06&" alt="bedi06" /></p>
 
