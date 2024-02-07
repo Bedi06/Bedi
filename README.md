@@ -10,6 +10,7 @@ A Passionate Developer Currently Learning Cloud! <br>
 </div>
 
 <a href="https://www.codewars.com/users/Bedi06">
+<hr>
   <img src="https://www.codewars.com/users/Bedi06/badges/large" alt="Codewars achievement badge">
 </a>
 <div align="center">
@@ -24,6 +25,7 @@ A Passionate Developer Currently Learning Cloud! <br>
 </div>
 
 <hr>
+
 My Stats :
 
 
