@@ -27,7 +27,7 @@ A Passionate Developer Currently Learning Cloud! <br>
 My Stats :
 
 
-<hr>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedi06&theme=transparent&hide_border=true&mode=weekly&card_width=724" alt="GitHub Streak" /></a>
 
 
