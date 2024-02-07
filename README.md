@@ -17,7 +17,7 @@ A Passionate Developer Currently Learning Cloud! <br>
  <hr>
        
 </a>
-# I'm confident in these  technologies 
+# I'm confident in these  technologies  <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
