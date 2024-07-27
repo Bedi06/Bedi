@@ -17,7 +17,7 @@ A Passionate Developer Currently Learning Cloud! <br>
  <hr>
        
 </a>
- I'm confident in these  technologies   <br>
+  Proficient in : <br>
  <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
