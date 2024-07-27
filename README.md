@@ -17,7 +17,7 @@ A Passionate Developer Currently Learning Cloud! <br>
  <hr>
        
 </a>
-  Proficient in : <br>
+  Proficient in: <br>
  <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -32,13 +32,6 @@ A Passionate Developer Currently Learning Cloud! <br>
 
 </div>
 
-<hr>
-
-My Stats :
-
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bedi06&theme=transparent&hide_border=true&mode=weekly&card_width=724" alt="GitHub Streak" /></a>
 
 
 
