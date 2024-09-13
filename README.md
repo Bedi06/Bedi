@@ -1,4 +1,4 @@
-#Hi 👋 I'm Bedi
+# Hi 👋 I'm Bedi
 
 A Passionate Developer on a Cloud Journey! ☁️ </br>
 Fueled by curiosity and a love for problem-solving.
