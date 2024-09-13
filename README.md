@@ -6,9 +6,9 @@ Fueled by curiosity and a love for problem-solving.
 
 🚀 About Me
 
-🌱 Currently diving deep into cloud technologies, with a focus on AWS
-💡 Always excited to learn new technologies and solve complex problems
-🤝 Open to collaborating on interesting projects
+🌱 Currently diving deep into cloud technologies, with a focus on AWS </br>
+💡 Always excited to learn new technologies and solve complex problems </br>
+🤝 Open to collaborating on interesting projects </br>
  <hr>
        
 </a>
@@ -27,19 +27,19 @@ Fueled by curiosity and a love for problem-solving.
 
 </div>
 
-🌱 Learning Goals
+🌱 Learning Goals </br>
+ 
+Mastering AWS services (EC2, S3, Lambda, DynamoDB) </br>
+Exploring serverless architectures </br>
+Diving into container orchestration with Kubernetes </br>
 
-Mastering AWS services (EC2, S3, Lambda, DynamoDB)
-Exploring serverless architectures
-Diving into container orchestration with Kubernetes
 
-
-
+</br>
 📫 How to Reach Me
-
-LinkedIn: https://www.linkedin.com/in/bediomuri/
-Email: omuribedi@gmail.com
-Portofolio : https://bediomuri.com/
+</br>
+LinkedIn: https://www.linkedin.com/in/bediomuri/ </br>
+Email: omuribedi@gmail.com </br>
+Portofolio : https://bediomuri.com/</br>
 
 
 
