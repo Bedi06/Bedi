@@ -1,14 +1,16 @@
-#      Hi 👋🏻 I'm _Bedi_
-A Passionate Developer Currently Learning Cloud! <br>
-        _Fueled by curiosity and a love for problem-solving._
-           
+#Hi 👋 I'm Bedi
 
+A Passionate Developer on a Cloud Journey! ☁️
+Fueled by curiosity and a love for problem-solving.
+🚀 About Me
 
-
+🌱 Currently diving deep into cloud technologies, with a focus on AWS
+💡 Always excited to learn new technologies and solve complex problems
+🤝 Open to collaborating on interesting projects
  <hr>
        
 </a>
-  Proficient in: <br>
+  💻 Tech Stack <br>
  <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -23,7 +25,19 @@ A Passionate Developer Currently Learning Cloud! <br>
 
 </div>
 
+🌱 Learning Goals
 
+Mastering AWS services (EC2, S3, Lambda, DynamoDB)
+Exploring serverless architectures
+Diving into container orchestration with Kubernetes
+
+
+
+📫 How to Reach Me
+
+LinkedIn: https://www.linkedin.com/in/bediomuri/
+Email: omuribedi@gmail.com
+Portofolio : https://bediomuri.com/
 
 
 
